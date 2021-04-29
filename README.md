@@ -1,4 +1,3 @@
-# Spausti čia:
 - **[Peržiūrėti darbą 1](https://nbviewer.jupyter.org/github/Elijas/graph-theory-lab/blob/master/lab1.ipynb)**
 - **[Peržiūrėti darbą 2](https://nbviewer.jupyter.org/github/Elijas/graph-theory-lab/blob/master/lab2.ipynb)**
 - **[Peržiūrėti darbą 3](https://nbviewer.jupyter.org/github/Elijas/graph-theory-lab/blob/master/lab3.ipynb)**
